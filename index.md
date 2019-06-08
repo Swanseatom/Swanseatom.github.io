@@ -18,14 +18,15 @@ Also heavily involved in the PDF templating for the same project, utilising Webp
 
 ### Other responsibilities
 
-I manage an Azure Enviornemnt hosting developer and production applications.
+I manage our Azure Enviornemnt hosting various internal, development and production applications.
 
 Having lead transformational change as to how we conduct Dev Ops. Introducing the use of tools such as letsencrypt by default for developer infratructure and containerizing each of our Dev Ops Applications the result has been easy to use, cheaper, more secure, up to date and robust infrastructure that complements the day to day tasks of our tech team and reduces frustrations of deploying applications. After leading this change I also manage our Dev Ops Infrastructure.
 
 
 ## Experties
 
-* Nodejs :heavy_check_mark:
+### Nodejs :heavy_check_mark:
+
 * Javascript :heavy_check_mark:
 * ES6 :heavy_check_mark:
 
@@ -37,6 +38,8 @@ Having lead transformational change as to how we conduct Dev Ops. Introducing th
 * Angular :heavy_check_mark:
 * SailsJS :heavy_check_mark:
 * Loopback.io :heavy_check_mark:
+
+* Slack Apps/API :heavy_check_mark:
 
 * PDFs :heavy_check_mark:
 
