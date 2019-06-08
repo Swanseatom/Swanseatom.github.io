@@ -36,6 +36,7 @@ Having lead transformational change as to how we conduct Dev Ops. Introducing th
 * Express :heavy_check_mark:
 * Angular :heavy_check_mark:
 * SailsJS :heavy_check_mark:
+* Loopback.io :heavy_check_mark:
 
 * PDFs :heavy_check_mark:
 
