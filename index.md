@@ -18,37 +18,44 @@ Also heavily involved in the PDF templating for the same project, utilising Webp
 
 ### Other responsibilities
 
-I manage our Azure Enviornemnt hosting various internal, development and production applications.
+I manage our Azure Environment hosting various internal, development and production applications.
 
 Having lead transformational change as to how we conduct Dev Ops. Introducing the use of tools such as letsencrypt by default for developer infratructure and containerizing each of our Dev Ops Applications the result has been easy to use, cheaper, more secure, up to date and robust infrastructure that complements the day to day tasks of our tech team and reduces frustrations of deploying applications. After leading this change I also manage our Dev Ops Infrastructure.
 
 
-## Experties
+## Skills and Experties
 
-### Nodejs :heavy_check_mark:
 
-* Javascript :heavy_check_mark:
-* ES6 :heavy_check_mark:
+Javascript  
+ES6+  
+Nodejs  
+Express  
+SailsJS  
+Loopback  
+Angular  
 
-* Webpack :heavy_check_mark:
-* Babel :heavy_check_mark:
-* Lerna :heavy_check_mark:
+Webpack  
+Babel  
+Lerna
 
-* Express :heavy_check_mark:
-* Angular :heavy_check_mark:
-* SailsJS :heavy_check_mark:
-* Loopback.io :heavy_check_mark:
+Contentful CMS
 
-* Slack Apps/API :heavy_check_mark:
+C#
+.NET
+Umbraco
 
-* PDFs :heavy_check_mark:
+Docker
 
-* Docker :heavy_check_mark:
-* Teamcity :heavy_check_mark:
-* Octopus :heavy_check_mark:
-* Azure :heavy_check_mark:
-* Azure Dev Ops :heavy_check_mark:
+PDF development/generation
 
-* HTML :heavy_check_mark:
-* CSS :heavy_check_mark:
-* SASS :heavy_check_mark:
+Slack Apps/API
+
+Teamcity  
+Octopus  
+Azure  
+Azure Dev Ops (VSTS)  
+Github
+
+HTML  
+CSS  
+SASS  
