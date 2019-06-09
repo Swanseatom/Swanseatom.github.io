@@ -62,4 +62,4 @@ SASS
 
 ## Get in touch
 
-Want to have a chat with me? Either shoot me an email on tom@tom-riley.tech or connect with me on [LinkedIn](https://uk.linkedin.com/in/tom-riley-swansea)
+Want to have a chat with me? Either shoot me an email on tom@tom-riley.tech or connect with me on [LinkedIn](https://uk.linkedin.com/in/swanseatom)
