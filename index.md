@@ -6,7 +6,7 @@ Hey! Thanks for taking the time to visit my website, on this page you will find 
 
 Graduate Software Engineer (HND Software Engineering) from the University of Wales Trinity St David, Swansea. I am a passionate person who loves a challenge and a fast paced working environment. Mainly focused on backend development, I also love automation and in turn found a passion for Dev Ops.
 
-## Work - Day to day...
+## Work
 
 Senior Specialist Developer is my title where I work and below is a little breakdown of what I get up to day to day.
 
@@ -59,3 +59,7 @@ Github
 HTML  
 CSS  
 SASS  
+
+## Get in touch
+
+Want to have a chat with me? Either shoot me an email on tom@tom-riley.tech or connect with me on ![LinkedIn](https://uk.linkedin.com/in/tom-riley-swansea)
